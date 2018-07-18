@@ -1,0 +1,4 @@
+.poster-wr{
+    display: flex;
+    flex-wrap: wrap;
+}
